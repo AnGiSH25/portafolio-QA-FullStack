@@ -1,0 +1,88 @@
+# === General ===
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.*.local
+.idea/
+.vscode/
+*.bak
+*.old
+*.orig
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+coverage/
+.next/
+out/
+
+# === PHP / Laravel ===
+vendor/
+storage/
+bootstrap/cache/
+*.phpunit.result.cache
+.env.testing
+.phpunit.cache
+composer.lock
+
+# Laravel specific
+/public/storage
+/.phpunit.result.cache
+Homestead.yaml
+Homestead.json
+
+# === Java ===
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+build/
+.gradle/
+out/
+*.log
+
+# === C / C++ ===
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.out
+*.a
+*.lib
+
+# === React / React Native ===
+.expo/
+.expo-shared/
+web-build/
+android/
+ios/
+*.keystore
+
+# === Databases ===
+*.sqlite
+*.db
+*.sql
+
+# === QA Tools ===
+.postman/
+*.har
+
+# === OS-specific ===
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# === Git ===
+.git/
+.gitignore
