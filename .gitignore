@@ -82,5 +82,10 @@ ios/
 ehthumbs.db
 Icon?
 Desktop.ini
+# === Python (para QA automation con Selenium o pytest) ===
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/
 
 
