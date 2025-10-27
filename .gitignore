@@ -83,6 +83,4 @@ ehthumbs.db
 Icon?
 Desktop.ini
 
-# === Git ===
-.git/
-.gitignore
+
