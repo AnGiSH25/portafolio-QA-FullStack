@@ -10,18 +10,3 @@ Ahora te invito a dar un vistazo a este repositorio, creado con toda la intenci�
 # portafolio-QA-FullStack
 Acompañame en este viaje, donde sé que aprenderé y sobre todo creceré mucho como profesional.
 
-#SECCIONES DESTACADAS:
-
-# Proyectos
-_Aquí se listarán los proyectos relacionados con mi aprendizaje(Gracias por acompañarme en este viaje)._
-
----
-
-# Retos
-_Espacio reservado para documentar los retos enfrentados y cómo se resolvieron._
-
----
-
-# QA Docs
-_Sección destinada a documentación de calidad, pruebas y validaciones._
-
